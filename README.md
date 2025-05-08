@@ -56,8 +56,8 @@ The script initializes the first two Fibonacci numbers (`0` and `1`) and uses a 
 CodeAlpha_FibonacciGenerator/
 │
 ├── FibonacciGenerator.py    # Main script with the Fibonacci logic
+├── LICENSE                  # Proprietary License
 ├── README.md                # This file
-├── LICENSE
 ```
 
 ---

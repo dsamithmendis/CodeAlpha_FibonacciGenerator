@@ -63,7 +63,9 @@ FibonacciGenerator/
 
 ## 📜 License
 
-This script is licensed under a permissive attribution license. You are free to use and modify it for personal or educational projects with credit to the author.
+This software is licensed for individual or commercial use under a proprietary license. Redistribution, modification, or resale is **not permitted** without written authorization from the owner.
+
+See [LICENSE](LICENSE) for full terms.
 
 ---
 

@@ -44,23 +44,13 @@ fibonacci_generator(10)
    python fibonacci_generator.py
    ```
 
-## License
+---
 
-This software is provided under the following conditions:
+## 📜 License
 
-1. **License Grant**: The owner of the software, Samith Mendis, grants you a non-exclusive, non-transferable license to use the software for personal or internal business purposes.
+This software is licensed for individual or commercial use under a proprietary license. Redistribution, modification, or resale is **not permitted** without written authorization from the owner.
 
-2. **Restrictions**:
-   - You may not sell, sublicense, distribute, or make the software available to any third parties without the explicit written consent of Samith Mendis.
-   - You may not modify, reverse engineer, or decompile the software unless expressly permitted by law or in writing by the author.
-   - You may not remove or alter any copyright, trademark, or proprietary notices included in the software.
-
-3. **Ownership**:
-   - All rights, title, and interest in the software remain with Samith Mendis. No ownership rights are transferred to you by this license.
-
-4. **Warranties**: The software is provided "as is" without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
-
-5. **Termination**: This license is effective until terminated. The license will terminate automatically without notice if you fail to comply with any of the terms of this agreement.
+See [LICENSE](LICENSE) for full terms.
 
 ---
 

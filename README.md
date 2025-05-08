@@ -2,6 +2,8 @@
 
 This Python script generates a Fibonacci-like sequence based on user input. Unlike the standard Fibonacci sequence which starts with 0 and 1, this version allows the user to provide **custom starting values** (`a`, `b`) and the **number of terms** to generate.
 
+> ⚠️ This product is proprietary and licensed. Unauthorized redistribution or resale is strictly prohibited.
+
 ## 📌 Features
 
 - Input custom first two terms (`a` and `b`)

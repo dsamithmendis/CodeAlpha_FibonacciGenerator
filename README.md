@@ -1,5 +1,5 @@
 
-# 🔢 Fibonacci Sequence Generator
+# 🔢 Fibonacci Generator
 
 **Developed by Samith Mendis**  
 © 2025 All Rights Reserved

@@ -2,15 +2,11 @@
 
 This Python script generates a Fibonacci-like sequence based on user input. Unlike the standard Fibonacci sequence which starts with 0 and 1, this version allows the user to provide **custom starting values** (`a`, `b`) and the **number of terms** to generate.
 
----
-
 ## 📌 Features
 
 - Input custom first two terms (`a` and `b`)
 - Choose how many terms to generate
 - Outputs the resulting sequence to the console
-
----
 
 ## 🧮 How It Works
 
@@ -25,8 +21,6 @@ With user-defined values:
 - `F(1) = b`
 
 Each subsequent number is the sum of the previous two.
-
----
 
 ## ▶️ Example
 
@@ -46,24 +40,18 @@ Generated sequence:
 2. Run the script:
 
 ```bash
-python fibonacci_custom.py
+python FibonacciGenerator.py
 ```
 
 3. Enter the values as prompted.
-
----
 
 ## 📂 Files
 
 - `fibonacci_custom.py` – The main Python script
 - `README.md` – This file
 
----
-
 ## 📜 License
 
 This software is licensed for individual or commercial use under a proprietary license. Redistribution, modification, or resale is **not permitted** without written authorization from the owner.
 
 See [LICENSE](LICENSE) for full terms.
-
----

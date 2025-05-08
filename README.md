@@ -53,10 +53,11 @@ The script initializes the first two Fibonacci numbers (`0` and `1`) and uses a 
 ## 📁 File Structure
 
 ```
-FibonacciGenerator/
+CodeAlpha_FibonacciGenerator/
 │
-├── fibonacci_generator.py   # Main script with the Fibonacci logic
+├── FibonacciGenerator.py    # Main script with the Fibonacci logic
 ├── README.md                # This file
+├── LICENSE
 ```
 
 ---

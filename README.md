@@ -32,8 +32,6 @@ Generated sequence:
 2 3 5 8 13 21 34
 ```
 
----
-
 ## 🛠 Usage
 
 1. Make sure you have Python installed.
@@ -47,8 +45,11 @@ python FibonacciGenerator.py
 
 ## 📂 Files
 
-- `fibonacci_custom.py` – The main Python script
-- `README.md` – This file
+`CodeAlpha_VoiceAssistant/
+│
+├── FibonacciGenerator.py        # Main application script
+├── LICENSE                      # Proprietary License
+├── README.md                    # This file`
 
 ## 📜 License
 

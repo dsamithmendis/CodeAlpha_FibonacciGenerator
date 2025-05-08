@@ -60,3 +60,9 @@ CodeAlpha_VoiceAssistant/
 This software is licensed for individual or commercial use under a proprietary license. Redistribution, modification, or resale is **not permitted** without written authorization from the owner.
 
 See [LICENSE](LICENSE) for full terms.
+
+## 👨‍💻 Author
+
+**Samith Mendis**  
+GitHub: [@dsamithmendis](https://github.com/dsamithmendis)  
+Email: [samithmendis.01@gmail.com]

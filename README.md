@@ -48,11 +48,9 @@ python FibonacciGenerator.py
 ## 📂 Files
 
 ```
-
 CodeAlpha_VoiceAssistant/
 │
 └── FibonacciGenerator.py
-
 ```
 
 ## 📜 License
